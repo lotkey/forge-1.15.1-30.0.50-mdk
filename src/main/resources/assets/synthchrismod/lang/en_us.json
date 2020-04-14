@@ -1,0 +1,22 @@
+{
+  "item.synthchrismod.example_item": "Dopeass Example Item",
+  "item.synthchrismod.test_item": "The God Egg",
+  "item.synthchrismod.special_egg": "Special Egg",
+  
+  "item.synthchrismod.egg_sword": "Egg Sword",
+  "item.synthchrismod.egg_shovel": "Egg Shovel",
+  "item.synthchrismod.egg_pickaxe": "Egg Pickaxe",
+  "item.synthchrismod.egg_axe": "Egg Axe",
+  "item.synthchrismod.egg_hoe": "Egg Hoe",
+  
+  "block.synthchrismod.egg_block": "Egg Block",
+  "block.synthchrismod.egg_ore": "Egg Ore",
+  "block.synthchrismod.special_block": "Chicken Torch",
+  
+  "itemGroup.synthchristab": "Synth Chris Tab",
+  
+  "item.synthchrismod.egg_helmet": "Egg Helmet",
+  "item.synthchrismod.egg_chestplate": "Egg Chestplate",
+  "item.synthchrismod.egg_leggings": "Egg Leggins",
+  "item.synthchrismod.egg_boots": "Egg Boots"
+}

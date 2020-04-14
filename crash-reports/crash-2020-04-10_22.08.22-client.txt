@@ -1,0 +1,46 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 4/10/20, 10:08 PM
+Description: Initializing game
+
+java.lang.NullPointerException: Initializing game
+	at net.minecraftforge.fml.loading.progress.EarlyProgressVisualization.join(EarlyProgressVisualization.java:40) ~[forge-1.15.1-30.0.50_mapped_snapshot_20190719-1.14.3-launcher.jar:?] {}
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:370) [forge-1.15.1-30.0.50_mapped_snapshot_20190719-1.14.3-recomp.jar:?] {}
+	at net.minecraft.client.main.Main.main(Main.java:140) [forge-1.15.1-30.0.50_mapped_snapshot_20190719-1.14.3-recomp.jar:?] {}
+	at mcp.client.Start.main(Start.java:17) [forge-1.15.1-30.0.50_mapped_snapshot_20190719-1.14.3-recomp.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at net.minecraftforge.fml.loading.progress.EarlyProgressVisualization.join(EarlyProgressVisualization.java:40)
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:370)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.main.Main.main(Main.java:140)
+	at mcp.client.Start.main(Start.java:17)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.15.1
+	Minecraft Version ID: 1.15.1
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 12.0.2, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 735145024 bytes (701 MB) / 947912704 bytes (904 MB) up to 3189768192 bytes (3042 MB)
+	CPUs: 8
+	JVM Flags: 0 total; 
+	Launched Version: mcp
+	Backend library: LWJGL version 3.2.2 build 10
+	Backend API: NO CONTEXT
+	GL Caps: 
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'forge'
+	Type: Client (map_client.txt)
+	CPU: <unknown>

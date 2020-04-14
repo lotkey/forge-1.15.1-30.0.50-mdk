@@ -1,0 +1,50 @@
+modLoader="javafml"
+
+loaderVersion="[30,)"
+
+issueTrackerURL="http://my.issue.tracker/"
+
+[[mods]]
+
+modId="synthchrismod"
+
+version="1.0" #mandatory
+
+displayName="Synth Chris Mod" #mandatory
+
+updateJSONURL="http://myurl.me/"
+
+displayURL="http://www.synthchrismusic.wixsite.com/music/"
+
+logoFile="examplemod.png"
+
+credits="Synth Chris"
+
+authors="Chris"
+
+description='''
+	This is my first mod.
+'''
+
+
+
+
+
+[[dependencies.synthchrismod]]
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[30,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+    
+[[dependencies.synthchrismod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.1]"
+    ordering="NONE"
+    side="BOTH"

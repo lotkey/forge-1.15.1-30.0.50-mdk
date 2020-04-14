@@ -1,0 +1,3 @@
+[10Apr2020 22:08:14.752] [Render thread/ERROR] [net.minecraft.client.resources.ResourceIndex/]: Can't find the resource index file: assets\indexes\1.15.json
+[10Apr2020 22:08:14.969] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Player429
+[10Apr2020 22:08:22.339] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.2.2 build 10
