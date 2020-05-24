@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III",
+		" i ",
+		" i "
+	],
+	"key": {
+		"I": {
+			"item": "synthchrismod:egg_ingot"
+		},
+		"i": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "synthchrismod:egg_pickaxe"
+	}
+}

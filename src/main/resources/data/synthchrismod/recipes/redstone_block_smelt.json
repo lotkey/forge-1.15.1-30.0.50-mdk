@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "synthchrismod:redstone_block_ore"
+	},
+	"result": "minecraft:redstone_block",
+	"experience": 1.0,
+	"cookingtime": 200
+}

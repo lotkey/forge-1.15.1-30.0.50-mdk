@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+	"synthchrismod:cherry_trapdoor",
+	"synthchrismod:magic_trapdoor",
+	"synthchrismod:gilded_trapdoor",
+	"synthchrismod:bleeding_trapdoor"
+  ]
+}

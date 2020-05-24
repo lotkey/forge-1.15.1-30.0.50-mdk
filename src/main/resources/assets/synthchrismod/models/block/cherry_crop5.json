@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "synthchrismod:blocks/cherry_crop_stage5"
+    }
+}

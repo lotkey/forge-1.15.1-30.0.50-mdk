@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "synthchrismod:egg_ingot_block_ore"
+	},
+	"result": "synthchrismod:egg_ingot_block",
+	"experience": 1.0,
+	"cookingtime": 200
+}

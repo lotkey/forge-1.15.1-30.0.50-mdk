@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "synthchrismod:blocks/egg_stone",
+        "top": "synthchrismod:blocks/egg_stone",
+        "side": "synthchrismod:blocks/egg_stone"
+    }
+}

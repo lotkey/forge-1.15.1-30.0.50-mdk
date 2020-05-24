@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "synthchrismod:block/chicken_totem"},
+		"facing=east": { "model": "synthchrismod:block/chicken_totem", "y": 90},
+		"facing=south": { "model": "synthchrismod:block/chicken_totem", "y": 180},
+		"facing=west": { "model": "synthchrismod:block/chicken_totem", "y": 270}
+	}
+}

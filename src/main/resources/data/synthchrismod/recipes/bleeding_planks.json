@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "synthchrismod:bleeding_log"
+		}
+	],
+	"result": {
+		"item": "synthchrismod:bleeding_planks",
+		"count": 4
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "synthchrismod:bleeding_planks"
+    }
+  ],
+  "result": {
+    "item": "synthchrismod:bleeding_button"
+  }
+}

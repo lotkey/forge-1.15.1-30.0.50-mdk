@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "synthchrismod:cherry_planks"
+    }
+  ],
+  "result": {
+    "item": "synthchrismod:cherry_button"
+  }
+}

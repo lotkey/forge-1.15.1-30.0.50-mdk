@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "synthchrismod:blocks/bleeding_log_top",
+        "side": "synthchrismod:blocks/bleeding_log"
+    }
+}

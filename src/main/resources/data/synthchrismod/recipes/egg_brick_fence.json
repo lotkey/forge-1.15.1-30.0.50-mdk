@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#-#",
+    "#-#"
+  ],
+  "key": {
+    "#": {
+      "item": "synthchrismod:egg_bricks"
+    },
+    "-": {
+      "item": "synthchrismod:egg_brick"
+    }
+  },
+  "result": {
+    "item": "synthchrismod:egg_brick_fence",
+    "count": 6
+  }
+}

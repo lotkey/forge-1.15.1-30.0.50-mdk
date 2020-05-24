@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"   ",
+		"I I",
+		"I I"
+	],
+	"key": {
+		"I": {
+			"item": "synthchrismod:egg_ingot"
+		}
+	},
+	"result": {
+    "item": "synthchrismod:egg_boots"
+	}
+}

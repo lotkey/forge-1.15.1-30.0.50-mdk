@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:wooden_fences",
+		"synthchrismod:egg_stone_fence",
+		"synthchrismod:egg_brick_fence"
+	]
+}

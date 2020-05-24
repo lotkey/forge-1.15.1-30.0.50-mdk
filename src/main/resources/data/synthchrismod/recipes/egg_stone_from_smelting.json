@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "synthchrismod:egg_block"
+	},
+	"result": "synthchrismod:egg_stone",
+	"experience": 1.0,
+	"cookingtime": 200
+}

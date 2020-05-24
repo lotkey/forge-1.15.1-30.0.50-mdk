@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III",
+		"IiI",
+		"III"
+	],
+	"key": {
+		"I": {
+			"item": "synthchrismod:egg_ingot_block"
+		},
+		"i": {
+			"item": "synthchrismod:chicken_totem"
+		}
+	},
+	"result": {
+		"item": "synthchrismod:quarry"
+	}
+}

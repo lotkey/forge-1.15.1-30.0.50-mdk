@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "synthchrismod:chicken_block"
+	},
+	"result": "synthchrismod:cooked_chicken_block",
+	"experience": 1.0,
+	"cookingtime": 200
+}

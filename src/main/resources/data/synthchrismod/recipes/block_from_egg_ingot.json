@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III",
+		"III",
+		"III"
+	],
+	"key": {
+		"I": {
+			"item": "synthchrismod:egg_ingot"
+		}
+	},
+	"result": {
+		"item": "synthchrismod:egg_ingot_block"
+	}
+}

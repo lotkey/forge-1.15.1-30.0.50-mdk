@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"synthchrismod:cherry_slab",
+		"synthchrismod:magic_slab",
+		"synthchrismod:egg_stone_slab",
+		"synthchrismod:egg_brick_slab",
+		"synthchrismod:bleeding_slab",
+		"synthchrismod:gilded_slab"
+	]
+}

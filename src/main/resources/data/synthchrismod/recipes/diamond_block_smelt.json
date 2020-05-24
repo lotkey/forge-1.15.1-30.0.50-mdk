@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "synthchrismod:diamond_block_ore"
+	},
+	"result": "minecraft:diamond_block",
+	"experience": 1.0,
+	"cookingtime": 200
+}

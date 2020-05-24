@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "synthchrismod:blocks/bleeding_planks",
+        "top": "synthchrismod:blocks/bleeding_planks",
+        "side": "synthchrismod:blocks/bleeding_planks"
+    }
+}

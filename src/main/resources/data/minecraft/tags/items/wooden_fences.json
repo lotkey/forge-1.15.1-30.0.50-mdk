@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"synthchrismod:cherry_fence",
+		"synthchrismod:magic_fence",
+		"synthchrismod:bleeding_fence",
+		"synthchrismod:gilded_fence"
+	]
+}

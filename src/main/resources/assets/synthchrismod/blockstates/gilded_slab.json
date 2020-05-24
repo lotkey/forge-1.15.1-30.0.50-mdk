@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "synthchrismod:block/gilded_slab" },
+        "type=top": { "model": "synthchrismod:block/gilded_slab_top" },
+        "type=double": { "model": "synthchrismod:block/gilded_planks" }
+    }
+}

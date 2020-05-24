@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "synthchrismod:blocks/gilded_planks",
+        "top": "synthchrismod:blocks/gilded_planks",
+        "side": "synthchrismod:blocks/gilded_planks"
+    }
+}

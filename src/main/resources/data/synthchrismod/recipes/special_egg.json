@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III",
+		"IiI",
+		"III"
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:gold_nugget"
+		},
+		"i": {
+			"item": "minecraft:egg"
+		}
+	},
+	"result": {
+		"item": "synthchrismod:special_egg"
+	}
+}

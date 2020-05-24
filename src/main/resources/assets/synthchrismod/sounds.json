@@ -1,0 +1,126 @@
+{
+	"entity.thiccen_entity.ambient": {
+		"category": "entity",
+		"subtitle": "Thiccen clucks",
+		"sounds": [
+			{
+				"name": "synthchrismod:entity/entity.thiccen_entity.ambient",
+				"stream": true
+			}		
+		]
+	},
+	"entity.thiccen_entity.hurt": {
+		"category": "entity",
+		"subtitle": "Thiccen hurts",
+		"sounds": [
+			{
+				"name": "synthchrismod:entity/entity.thiccen_entity.hurt",
+				"stream": true
+			}		
+		]
+	},
+	"entity.rooster_entity.hurt": {
+		"category": "entity",
+		"subtitle": "Rooster hurts",
+		"sounds": [
+			{
+				"name": "synthchrismod:entity/entity.rooster_entity.hurt",
+				"stream": true
+			}
+		]
+	},
+	"entity.rooster_entity.ambient": {
+		"category": "entity",
+		"subtitle": "Rooster clucks",
+		"sounds": [
+			{
+				"name": "synthchrismod:entity/entity.rooster_entity.ambient",
+				"stream": true
+			}
+		]
+	},
+	"entity.rooster_entity.growl": {
+		"category": "entity",
+		"subtitle": "Rooster growls",
+		"sounds": [
+			{
+				"name": "synthchrismod:entity/entity.rooster_entity.growl",
+				"stream": true
+			}
+		]
+	},
+	"entity.rooster_entity.pant": {
+		"category": "entity",
+		"subtitle": "Rooster pants",
+		"sounds": [
+			{
+				"name": "synthchrismod:entity/entity.rooster_entity.pant",
+				"stream": true
+			}
+		]
+	},
+	"entity.rooster_entity.whine": {
+		"category": "entity",
+		"subtitle": "Rooster whines",
+		"sounds": [
+			{
+				"name": "synthchrismod:entity/entity.rooster_entity.whine",
+				"stream": true
+			}
+		]
+	},
+	"entity.chicken_ghoul.ambient": {
+		"category": "entity",
+		"subtitle": "Chicken Ghoul mourns",
+		"sounds": [
+			{
+				"name": "synthchrismod:entity/entity.chicken_ghoul.ambient",
+				"stream": true
+			}
+		]
+	},
+	"entity.chicken_ghoul.hurt": {
+		"category": "entity",
+		"subtitle": "Chicken Ghoul hurts",
+		"sounds": [
+			{
+				"name": "synthchrismod:entity/entity.chicken_ghoul.hurt",
+				"stream": true
+			}
+		]
+	},
+	"entity.chicken_ghoul.death": {
+		"category": "entity",
+		"subtitle": "Chicken Ghoul dies",
+		"sounds": [
+			{
+				"name": "synthchrismod:entity/entity.chicken_ghoul.death",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_chicken": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "synthchrismod:music/chicken1",
+				"stream": true
+			},
+			{
+				"name": "synthchrismod:music/chicken2",
+				"stream": true
+			}		
+		]
+	},
+	
+	"music_hell": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "synthchrismod:music/hell1",
+				"stream": true
+			}
+		]
+	}
+}

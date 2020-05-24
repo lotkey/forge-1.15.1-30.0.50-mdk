@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+	"synthchrismod:cherry_button",
+	"synthchrismod:magic_button",
+	"synthchrismod:gilded_button",
+	"synthchrismod:bleeding_button"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "synthchrismod:block/bleeding_slab" },
+        "type=top": { "model": "synthchrismod:block/bleeding_slab_top" },
+        "type=double": { "model": "synthchrismod:block/bleeding_planks" }
+    }
+}

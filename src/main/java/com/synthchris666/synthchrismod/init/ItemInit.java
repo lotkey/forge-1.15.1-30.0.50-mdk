@@ -36,9 +36,9 @@ import net.minecraftforge.registries.ObjectHolder;
 @ObjectHolder(SynthChrisMod.MOD_ID)
 public class ItemInit 
 {
-	public static final Item example_item = null;
-	public static final Item test_item = null;
+	public static final Item god_egg = null;
 	public static final Item special_egg = null;
+	public static final Item egg_ingot = null;
 	
 	//tools
 	public static final Item egg_sword = null;
@@ -56,9 +56,9 @@ public class ItemInit
 	@SubscribeEvent
 	public static void registerItems(final RegistryEvent.Register<Item> event) 
 	{
-		event.getRegistry().register(new Item(new Item.Properties().group(SynthChrisItemGroup.instance)).setRegistryName("example_item"));
-		event.getRegistry().register(new Item(new Item.Properties().group(SynthChrisItemGroup.instance).food(new Food.Builder().hunger(7).setAlwaysEdible().effect(new EffectInstance(Effects.SPEED, 6000, 255), 1f).effect(new EffectInstance(Effects.RESISTANCE, 6000, 255), 1f).effect(new EffectInstance(Effects.STRENGTH, 6000, 255), 1f).build())).setRegistryName("test_item"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SynthChrisItemGroup.instance).food(new Food.Builder().hunger(7).setAlwaysEdible().effect(new EffectInstance(Effects.SPEED, 6000, 255), 1f).effect(new EffectInstance(Effects.RESISTANCE, 6000, 255), 1f).effect(new EffectInstance(Effects.JUMP_BOOST, 6000, 255), 1f).build())).setRegistryName("god_egg"));
 		event.getRegistry().register(new SpecialItem(new Item.Properties().group(SynthChrisItemGroup.instance)).setRegistryName("special_egg"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SynthChrisItemGroup.instance)).setRegistryName("egg_ingot"));
 		
 		//tools
 		event.getRegistry().register(new SwordItem(ModItemTier.EGG,20,10.0f,new Item.Properties().group(SynthChrisItemGroup.instance)).setRegistryName("egg_sword"));
@@ -77,7 +77,7 @@ public class ItemInit
 	public enum ModItemTier implements IItemTier
 	{
 		EGG(4,2031,15.0f,7.0f,250,() -> {
-			return Ingredient.fromItems(ItemInit.test_item);
+			return Ingredient.fromItems(ItemInit.god_egg);
 		});
 		
 		private final int harvestLevel;
@@ -137,7 +137,7 @@ public class ItemInit
 	public enum ModArmorMaterial implements IArmorMaterial
 	{
 		EGG(SynthChrisMod.MOD_ID + ":egg", 5, new int[] {6,12,16,6}, 420, SoundEvents.field_226142_fM_, 6.9f, () -> {
-			return Ingredient.fromItems(ItemInit.test_item);
+			return Ingredient.fromItems(ItemInit.god_egg);
 		});
 		
 		private static final int[] MAX_DAMAGE_ARRAY = new int[] {16,16,16,16};

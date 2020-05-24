@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"synthchrismod:cherry_pressure_plate",
+		"synthchrismod:magic_pressure_plate",
+		"synthchrismod:gilded_pressure_plate",
+		"synthchrismod:bleeding_pressure_plate"
+	]
+}

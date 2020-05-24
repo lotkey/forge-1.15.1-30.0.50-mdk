@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "synthchrismod:gilded_log"
+		}
+	],
+	"result": {
+		"item": "synthchrismod:gilded_planks",
+		"count": 4
+	}
+}

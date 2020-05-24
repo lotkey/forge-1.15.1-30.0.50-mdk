@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "synthchrismod:iron_block_ore"
+	},
+	"result": "minecraft:iron_block",
+	"experience": 1.0,
+	"cookingtime": 200
+}

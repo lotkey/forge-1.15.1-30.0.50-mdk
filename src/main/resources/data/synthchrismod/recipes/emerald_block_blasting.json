@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "synthchrismod:emerald_block_ore"
+  },
+  "result": "minecraft:emerald_block",
+  "experience": 2.0,
+  "cookingtime": 100
+}

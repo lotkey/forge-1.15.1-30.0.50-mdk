@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "synthchrismod:egg_ore"
+	},
+	"result": "synthchrismod:god_egg",
+	"experience": 1.0,
+	"cookingtime": 200
+}

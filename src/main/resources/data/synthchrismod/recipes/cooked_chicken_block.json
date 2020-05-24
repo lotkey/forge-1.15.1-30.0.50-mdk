@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III",
+		"III",
+		"III"
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:cooked_chicken"
+		}
+	},
+	"result": {
+		"item": "synthchrismod:cooked_chicken_block"
+	}
+}

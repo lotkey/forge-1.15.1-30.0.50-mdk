@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top",
+    "textures": {
+        "bottom": "synthchrismod:blocks/bleeding_door_bottom",
+        "top": "synthchrismod:blocks/bleeding_door_top"
+    }
+}

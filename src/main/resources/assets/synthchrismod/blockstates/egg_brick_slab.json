@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "synthchrismod:block/egg_brick_slab" },
+        "type=top": { "model": "synthchrismod:block/egg_brick_slab_top" },
+        "type=double": { "model": "synthchrismod:block/egg_bricks" }
+    }
+}

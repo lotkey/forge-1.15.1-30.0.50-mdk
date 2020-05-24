@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "synthchrismod:blocks/emerald_block_ore"
+    }
+}

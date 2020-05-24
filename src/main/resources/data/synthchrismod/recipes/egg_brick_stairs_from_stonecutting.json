@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "synthchrismod:egg_bricks"
+  },
+  "result": "synthchrismod:egg_brick_stairs",
+  "count": 1
+}

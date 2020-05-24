@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "synthchrismod:block/gilded_pressure_plate" },
+        "powered=true": { "model": "synthchrismod:block/gilded_pressure_plate_down" }
+    }
+}

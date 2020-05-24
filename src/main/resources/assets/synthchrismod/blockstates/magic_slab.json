@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "synthchrismod:block/magic_slab" },
+        "type=top": { "model": "synthchrismod:block/magic_slab_top" },
+        "type=double": { "model": "synthchrismod:block/magic_planks" }
+    }
+}

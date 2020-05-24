@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "synthchrismod:egg_stone"
+  },
+  "result": "synthchrismod:egg_stone_slab",
+  "count": 2
+}

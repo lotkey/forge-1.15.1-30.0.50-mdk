@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom_rh",
+    "textures": {
+        "bottom": "synthchrismod:blocks/gilded_door_bottom",
+        "top": "synthchrismod:blocks/gilded_door_top"
+    }
+}

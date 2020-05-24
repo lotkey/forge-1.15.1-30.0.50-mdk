@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "synthchrismod:block/bleeding_log" },
+        "axis=z":   { "model": "synthchrismod:block/bleeding_log", "x": 90 },
+        "axis=x":   { "model": "synthchrismod:block/bleeding_log", "x": 90, "y": 90 }
+    }
+}

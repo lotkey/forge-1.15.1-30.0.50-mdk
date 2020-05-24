@@ -1,8 +1,0 @@
-{
-	"variants": {
-		"facing=north": { "model": "synthchrismod:block/special_block"},
-		"facing=east": { "model": "synthchrismod:block/special_block", "y": 90},
-		"facing=south": { "model": "synthchrismod:block/special_block", "y": 180},
-		"facing=west": { "model": "synthchrismod:block/special_block", "y": 270}
-	}
-}

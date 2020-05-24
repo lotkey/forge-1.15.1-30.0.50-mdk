@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "synthchrismod:gold_block_ore"
+	},
+	"result": "minecraft:gold_block",
+	"experience": 1.0,
+	"cookingtime": 200
+}

@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "synthchrismod:cherries"
+		}
+	],
+	"result": {
+		"item": "synthchrismod:cherry_seeds",
+		"count": 2
+	}
+}
