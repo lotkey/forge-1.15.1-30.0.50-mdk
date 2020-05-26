@@ -60,6 +60,7 @@ public class ObjectInitNew {
 	public static final RegistryObject<Block> EGG_STONE_SLAB = BLOCKS.register("egg_stone_slab",
 			() -> new SlabBlock(Block.Properties.from(Blocks.STONE_SLAB)));
 	public static final RegistryObject<Block> EGG_STONE_WALL = BLOCKS.register("egg_stone_wall", () -> new WallBlock(Block.Properties.from(Blocks.COBBLESTONE_WALL)));
+	public static final RegistryObject<Block> MOSSY_EGG_STONE = BLOCKS.register("mossy_egg_stone", () -> new Block(Block.Properties.from(Blocks.MOSSY_COBBLESTONE)));
 	
 	public static final RegistryObject<Block> EGG_BRICKS = BLOCKS.register("egg_bricks", () -> new Block(Block.Properties.from(Blocks.NETHER_BRICKS)));
 	public static final RegistryObject<Block> EGG_BRICK_STAIRS = BLOCKS.register("egg_brick_stairs",

@@ -27,6 +27,7 @@
   "block.synthchrismod.egg_stone_slab": "Eggstone Slab",
   "block.synthchrismod.egg_stone_wall": "Eggstone Wall",
   "block.synthchrismod.egg_chest": "Egg Chest",
+  "block.synthchrismod.mossy_egg_stone": "Mossy Eggstone",
   
   "block.synthchrismod.cherry_planks": "Cherry Planks",
   "block.synthchrismod.cherry_log": "Cherry Log",
@@ -100,9 +101,12 @@
   "container.EGG_CHEST": "Egg Chest",
   "biome.synthchrismod.chicken_forest": "Chicken Forest",
   "biome.synthchrismod.hell": "Hell",
+  "biome.synthchrismod.oasis": "Oasis",
   "dimension.synthchrismod.chicken_dim": "Chicken Dimension",
+  "dimension.synthchrismod.hell": "Hell",
   "entity.synthchrismod.thiccen_entity": "Thiccen",
   "entity.synthchrismod.rooster_entity": "Rooster",
+  "entity.synthchrismod.chicken_ghoul": "Chicken Ghoul",
   
   "item.synthchrismod.egg_helmet": "Egg Helmet",
   "item.synthchrismod.egg_chestplate": "Egg Chestplate",

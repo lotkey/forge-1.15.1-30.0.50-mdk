@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "synthchrismod:blocks/mossy_egg_stone"
+    }
+}
